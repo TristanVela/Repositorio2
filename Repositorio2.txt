@@ -1,2 +1,6 @@
 Este texto esta actualizado
+<<<<<<< HEAD
+Este cambio ya no creara conflictos
+=======
 Este cambio creara conflictos
+>>>>>>> master
